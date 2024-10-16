@@ -138,7 +138,7 @@ body {
 #photo0:hover{
     transition: transform 0.8s ease-in-out;
     transform: scale(1.02);
-    content: url(/C:/E-Commerce/Men/Otto-Mahesh-Babu1.jpg);
+    content: url(/Men/Otto-Mahesh-Babu1.jpg);
 }
 #photo1:hover{
     transition: transform 0.8s ease-in-out;
@@ -148,7 +148,7 @@ body {
 #photo2:hover{
     transition: transform 0.8s ease-in-out;
     transform: scale(1.02);
-    content: url(/C:/E-Commerce/Men/Otto-DQ1.jpg);
+    content: url(/Men/Otto-DQ1.jpg);
 }
 #photo3:hover{
     transition: transform 0.8s ease-in-out;
